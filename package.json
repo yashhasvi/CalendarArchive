@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@supabase/supabase-js": "^2.54.0",
+    "react-share": "^5.2.2"
+  }
+}
